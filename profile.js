@@ -11,7 +11,7 @@ If you do not have a link yet, leave that section as an empty list: []
 */
 
 const studentProfile = {
-  name: "Your Name",
+  name: "Drew Heiner",
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
@@ -37,13 +37,10 @@ const studentProfile = {
   Each block needs a title and a url.
   */
   rpubs: [
-    {
-      title: "Introduction to R",
-      url: "https://rpubs.com/"
-    },
+    
     {
       title: "Finding Patterns with Heatmaps",
-      url: "https://rpubs.com/"
+      url: "https://rpubs.com/DrewHeiner/1447228"
     }
   ],
 
