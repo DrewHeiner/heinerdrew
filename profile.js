@@ -41,6 +41,14 @@ const studentProfile = {
     {
       title: "Finding Patterns with Heatmaps",
       url: "https://rpubs.com/DrewHeiner/1447228"
+    },
+    {
+      title: "DREAM-High: Breast Cancer Cell Lines, Cell Motility, and Gene Expression",
+      url: "https://rpubs.com/DrewHeiner/1451452"
+    },
+    {
+      title: "DREAM-High: Heatmaps with TCGA Breast Cancer Gene Expression Data",
+      url: "https://rpubs.com/DrewHeiner/1451453"
     }
   ],
 
